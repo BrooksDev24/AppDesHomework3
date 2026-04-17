@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|c:\\users\\schbros\\source\\repos\\gadgethub\\gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\infrastructure\\binders\\cartmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\binders\\cartmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\models\\cartindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\cartindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\nav\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\controllers\\navcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\models\\productslistviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\productslistviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\htmlhelpers\\paginghelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\htmlhelpers\\paginghelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\models\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\infrastructure\\ninjectdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.domain\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\abstract\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B52293-76F0-49C9-BAD3-73285F7E1A2B}|GadgetHub.Domain\\GadgetHub.Domain.csproj|solutionrelative:gadgethub.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|C:\\Users\\schbros\\source\\repos\\GadgetHub\\gadgethub.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3697B57-F5E0-4CC7-8B33-E91012D4804D}|GadgetHub.WebUI\\GadgetHub.WebUI.csproj|solutionrelative:gadgethub.webui\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T20:51:43.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShippingDetails.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Entities\\ShippingDetails.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T20:38:12.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Models\\CartIndexViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:20:28.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wEMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T17:08:47.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:34:24.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Nav\\Menu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T16:11:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T21:42:30.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T17:30:05.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartModelBinder.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\Binders\\CartModelBinder.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T19:43:27.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Summary.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Cart\\Summary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-20T20:27:44.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Global.asax.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Global.asax.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T19:57:24.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Shared\\ProductSummary.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Shared\\ProductSummary.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T15:50:56.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NavController.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\NavController.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\NavController.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\NavController.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\NavController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:45:16.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T21:50:40.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsListViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Models\\ProductsListViewModels.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\ProductsListViewModels.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Models\\ProductsListViewModels.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Models\\ProductsListViewModels.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:22:49.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\web.config",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\web.config",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\web.config",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-06T21:18:59.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagingHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\HtmlHelpers\\PagingHelpers.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:12:57.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Models\\PagingInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T21:02:34.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:48:27.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "GadgetHub.WebUI\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-20T21:41:47.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:33:19.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Abstract\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Abstract\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Abstract\\IProductRepository.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Abstract\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:05:18.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "GadgetHub.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "GadgetHub.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T20:57:26.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NinjectWebCommon.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\App_Start\\NinjectWebCommon.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T20:53:16.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NinjectDependencyResolver.cs",
+              "DocumentMoniker": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeDocumentMoniker": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ToolTip": "C:\\Users\\schbros\\source\\repos\\GadgetHub\\GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "RelativeToolTip": "GadgetHub.WebUI\\Infrastructure\\NinjectDependencyResolver.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T20:39:45.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
